@@ -70,15 +70,15 @@ window.BEST_NEARBY = {
     "website": "https://example.com",
     "directions": "https://maps.apple.com/"
   },
-  {
-    "category": "Coffee",
-    "emoji": "☕",
-    "business": "Your Coffee Sponsor",
-    "blurb": "Our go-to for a cup of joe and a little get-up-and-go.",
-    "perk": "Guest perk goes here",
-    "website": "https://example.com",
-    "directions": "https://maps.apple.com/"
-  },
+{
+  "category": "Coffee",
+  "emoji": "☕",
+  "business": "Wicked Southern Coffee",
+  "blurb": "Our go-to for a cup of joe and a little get-up-and-go.",
+  "perk": "",
+  "website": "https://order.toasttab.com/online/wicked-southern-coffee",
+  "directions": "https://www.google.com/maps/dir/?api=1&destination=Wicked%20Southern%20Coffee%2C%20595%20Norwich%20Road%2C%20Salem%2C%20CT%2006420"
+},
   {
     "category": "Steak",
     "emoji": "🥩",
